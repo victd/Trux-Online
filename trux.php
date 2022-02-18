@@ -3,6 +3,8 @@
    session_start();
 ?>
 
+// I think this was php generated, cause that's a lot of manual typing otherwise
+
 <?
    // error_reporting(E_ALL);
    // ini_set("display_errors", 1);
