@@ -4,6 +4,7 @@
 ?>
 
 // I think this was php generated, cause that's a lot of manual typing otherwise
+// 3 - tier should be enough: webApp Java script, Java servlet pages middle running on server, Oracle DB back end, REST api
 
 <?
    // error_reporting(E_ALL);
