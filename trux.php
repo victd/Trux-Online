@@ -6,6 +6,7 @@
 // I think this was php generated, cause that's a lot of manual typing otherwise
 // 3 - tier should be enough: webApp Java script, Java servlet pages middle running on server, Oracle DB back end, REST api
 // connect it to Android Dev Studio app
+// also trying to fit in the counterparts clause on the last page
 
 <?
    // error_reporting(E_ALL);
