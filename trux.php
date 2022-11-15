@@ -8,6 +8,7 @@
 // connect it to Android Dev Studio app
 // also trying to fit in the counterparts clause on the last page
 // put in facility to fix odometer corrections
+// internal ticket is dependent on the resolution of the external ticket
 
 <?
    // error_reporting(E_ALL);
