@@ -7,7 +7,7 @@
 // 3 - tier should be enough: webApp Java script, Java servlet pages middle running on server, Oracle DB back end, REST api
 // connect it to Android Dev Studio app
 // also trying to fit in the counterparts clause on the last page
-// put in facility to fix odometer corrections
+// put in facility to fix odometer corrections - AMCS sync tablet and Trux issue
 // internal ticket is dependent on the resolution of the external ticket
 // KM corrections and Fuel
 // Performance - 
