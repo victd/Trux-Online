@@ -11,6 +11,7 @@
 // internal ticket is dependent on the resolution of the external ticket
 // KM corrections and Fuel
 // Performance - MaintainIT and tire repair
+// provision for local serial or usb connections to cloud server or an on-prem local HQ
 // tomcat
 
 <?
