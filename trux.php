@@ -10,7 +10,7 @@
 // put in facility to fix odometer corrections - AMCS sync tablet and Trux issue
 // internal ticket is dependent on the resolution of the external ticket
 // KM corrections and Fuel, Organics
-// Performance - MaintainIT and tire repair, patch, retread
+// Performance - MaintainIT and tire repair, patch, retread, staple glue
 // provision for local serial or usb connections to cloud server or an on-prem local HQ
 // tomcat
 
